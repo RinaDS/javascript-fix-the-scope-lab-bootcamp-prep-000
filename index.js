@@ -26,6 +26,6 @@ return funkyFunction(){
   return "funky"
 }
 }
- console.log(funkyFunction()());
+
 
 
